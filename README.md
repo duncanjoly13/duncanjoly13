@@ -1,5 +1,6 @@
 - Hi, I’m @duncanjoly13
 - I’m interested in language learning, computer security, and music
+- Most of my GitHub contributions are private pending acceptance to research conferences
 - Visit my website at https://duncanjoly.com
 
 <!---
