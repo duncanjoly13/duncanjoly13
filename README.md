@@ -3,6 +3,7 @@
 - Most of my GitHub contributions are private pending acceptance to research conferences
 - Visit my website at https://duncanjoly.com
 - I'm a licensed amateur radio operator
+- View my ORCiD at https://orcid.org/0000-0003-3058-0758
 
 <!---
 duncanjoly13/duncanjoly13 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
