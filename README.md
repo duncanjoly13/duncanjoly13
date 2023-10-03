@@ -1,4 +1,4 @@
-- Hi, I’m @duncanjoly13
+- Hi, I’m Duncan Joly
 - I’m interested in language learning, computer security, and music
 - Visit my website at https://duncanjoly.com
 - I'm a licensed amateur radio operator
