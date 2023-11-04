@@ -1,5 +1,5 @@
 - Hi, I’m Duncan Joly
-- I’m interested in language learning, computer security and networking, and music
+- I’m interested in computer and network security (especially within 5G)
 - Visit my website at https://duncanjoly.com
 - I'm a licensed amateur radio operator
 
