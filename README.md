@@ -1,8 +1,3 @@
-- Hi, I’m Duncan Joly
-- I’m interested in computer and network security (especially within 5G)
-- Visit my website at https://duncanjoly.com
-
-<!---
-duncanjoly13/duncanjoly13 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- Hi, I’m Duncan
+- I’m interested in network & data security and telecommunications (especially xG mobile networks)
+- Visit my personal website at https://duncanjoly.com or my academic website at https://cs.umn.edu/~joly0012
