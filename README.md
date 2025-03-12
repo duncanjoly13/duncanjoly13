@@ -1,3 +1,3 @@
 - Hi, I’m Duncan
-- I’m interested in network & data security and telecommunications (especially xG mobile networks)
-- Visit my personal website at https://duncanjoly.com or my academic website at https://cs.umn.edu/~joly0012
+- I’m interested in network & data security and telecommunications (especially wireless networks)
+- Visit my academic website at https://cs.umn.edu/~joly0012 or my personal website at https://duncanjoly.com
