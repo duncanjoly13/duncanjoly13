@@ -1,3 +1,3 @@
-- Hi, I’m Duncan
-- I’m interested in network & data security and telecommunications (especially wireless networks)
+- Hi, I’m Duncan 🛰️🖥️
+- I’m interested in network & data security and telecommunications (especially wireless networks and space communications)
 - Visit my academic website at https://cs.umn.edu/~joly0012 or my personal website at https://duncanjoly.com
